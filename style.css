@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Bristol';
-    src: url('Fonts/Bristol.woff2') format('woff2'),
-         url('Fonts/Bristol.woff') format('woff');
+    src: url('./Fonts/Bristol.woff2') format('woff2'),
+         url('./Fonts/Bristol.woff') format('woff');
 }
 
 body {
